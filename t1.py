@@ -29,13 +29,13 @@ class UChuckLexer(Lexer):
     ignore = " \t"
 
     # Other ignored patterns
-    ignore_newline = # <<< INCLUDE A REGEX HERE FOR NEWLINE >>>
-    ignore_comment = # <<< INCLUDE A REGEX HERE FOR COMMENT >>>
+    ignore_newline = r'' # <<< INCLUDE A REGEX HERE FOR NEWLINE >>>
+    ignore_comment = r'' # <<< INCLUDE A REGEX HERE FOR COMMENT >>>
 
     # Regular expression rules for tokens
-    ID = # <<< INCLUDE A REGEX HERE FOR ID >>>
-    INT_VAL = # <<< INCLUDE A REGEX HERE FOR INT_CONST >>>
-    STRING_LIT = # <<< INCLUDE A REGEX HERE FOR CHAR_CONST >>>
+    ID = r'' # <<< INCLUDE A REGEX HERE FOR ID >>>
+    INT_VAL = r'' # <<< INCLUDE A REGEX HERE FOR INT_CONST >>>
+    STRING_LIT = r'' # <<< INCLUDE A REGEX HERE FOR CHAR_CONST >>>
     # <<< YOUR CODE HERE >>>
 
     # Special cases
