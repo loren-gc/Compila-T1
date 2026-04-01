@@ -1,0 +1,8 @@
+// Notebook
+https://colab.research.google.com/drive/1FXsbf3mp9rf-Cce-c9qk_8S43ppcPd4k?usp=sharing#scrollTo=xzuBlY7pcj1L
+// Chuck grammar
+https://colab.research.google.com/drive/1GiV8weG5lzVvA7z970EiE8bUMj3DAg0x?usp=sharing#scrollTo=FjE3_jtgbmHH
+// Chuck specs
+https://chuck.stanford.edu/doc/language/
+// SLY documentation
+https://sly.readthedocs.io/en/latest/
