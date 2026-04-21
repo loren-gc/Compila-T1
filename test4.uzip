@@ -1,0 +1,12 @@
+// Testando Chars
+var char_valido = '\\';
+var char_erro_escape = '\'; // Lexer acha que a aspa foi escapada e não fechou
+var char_erro_linha = 'A
+var x = 10;
+
+// Testando String Multi-linha
+var texto = "Linha 1
+Linha 2
+Linha 3";
+var y = 20;
+// Este e um comentario no exato fim do arquivo sem quebra de linha
